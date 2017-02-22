@@ -5,7 +5,7 @@ import (
 	"testing"
 	"time"
 
-	consul "github.com/hashicorp/consul/api"
+	consul "github.com/life360/consul/api"
 )
 
 func TestDecode_basic(t *testing.T) {

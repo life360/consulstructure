@@ -8,7 +8,7 @@ import (
 	"time"
 
 	"github.com/cenkalti/backoff"
-	consul "github.com/hashicorp/consul/api"
+	consul "github.com/life360/consul/api"
 	"github.com/mitchellh/copystructure"
 	"github.com/mitchellh/mapstructure"
 )
